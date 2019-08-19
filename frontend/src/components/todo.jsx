@@ -8,7 +8,8 @@ import {
   clear,
   add,
   del
-} from "../actions/todoActions";
+} from "../store/actions/todoActions";
+
 const TodoForm = styled.input``;
 const TodoButton = styled.input`
   box-sizing: border-box;
