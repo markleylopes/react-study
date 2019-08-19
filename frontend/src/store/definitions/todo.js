@@ -1,0 +1,5 @@
+export const UPDATE_DESCRIPTION = "UPDATE_DESCRIPTION";
+
+export const TODO_SEARCH_OK = "TODO_SEARCH_OK";
+export const TODO_CLEANED = "TODO_CLEANED";
+export const TODO_CREATED = "TODO_CREATED";
